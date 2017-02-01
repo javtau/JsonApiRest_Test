@@ -1,0 +1,11 @@
+<resources>
+    //Main activity strings
+    <string name="app_name">ExamenJson_2016</string>
+    <string name="hint_codigo">Introduzca codigo</string>
+    <string name="btn_consultar">CONSULTAR</string>
+
+    //InfoActor activity strings
+    <string name="btn_filmografia">FILMOGRAFIA</string>
+    <string name="error_noactor">Este código no contiene ningún actor</string>
+    <string name="error_vuelva">Vuelva atrás y pruebe con otro código</string>
+</resources>
